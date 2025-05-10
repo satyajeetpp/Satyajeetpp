@@ -24,4 +24,4 @@ Always building, learning, and breaking things (intentionally, I swear!) 🛠️
 
 GitHub: You're already here! 🙌
 
-Mail: satyajeetm67d@gmail.com
+Mail: satyajeetm67@gmail.com
