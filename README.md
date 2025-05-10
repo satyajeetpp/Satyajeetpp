@@ -19,6 +19,9 @@ Hi there, I'm Satyajeet ! 👋 Welcome to my little corner of the internet, wher
 🚀 About Me
 
 Always building, learning, and breaking things (intentionally, I swear!) 🛠️
+
 📫 How to Reach Me
+
 GitHub: You're already here! 🙌
+
 Mail: satyajeetm67d@gmail.com
