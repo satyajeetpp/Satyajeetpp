@@ -1,4 +1,4 @@
-## Hi there 👋
+## 
 
 <!--
 **satyajeetpp/Satyajeetpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there, I'm Satyajeet ! 👋 Welcome to my little corner of the internet, where I turn coffee ☕ into code and chaos into structured data!
+
+🚀 About Me
+
+Always building, learning, and breaking things (intentionally, I swear!) 🛠️
+📫 How to Reach Me
+GitHub: You're already here! 🙌
+Mail: satyajeetm67d@gmail.com
